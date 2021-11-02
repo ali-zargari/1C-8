@@ -1,0 +1,19 @@
+[Time_vs_Recursion.JPG]
+There are lots of fluctuation all throughout my graphs. The volatility is most likely due to me running other apps
+while the test ran, which makes sense.
+
+[TvRL_[0, 50].JPG]
+The graphs all reach their lowest time index around 25 recursion limits. After that, all of the graphs will trend up
+the time index graph.
+
+[TvRL_[250, 300]]
+I noticed was that as recursion limit gets closer to 300, the graphs are all trending up, but
+there seems to be a correction at the very end, because most of the graphs are going down. My guess is that if I ran more
+iterations till 350, or 400 for example, the drop would mean nothing and will be corrected. But I find it curious that almost all of the
+graphs trend down at very specific points, like at the very beginning, or around 215.
+
+
+The run time for this program was painfully long, and I did not get to test it as many times as I would ideally want. I have
+a very nice 16 threaded CPU that probably helped me smoothly finish this test run in about 2 hours and 30 minutes. I am very
+curious to know what the average runtime for this program was in this class.
+

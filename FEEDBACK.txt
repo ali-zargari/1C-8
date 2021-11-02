@@ -1,0 +1,24 @@
+FEEDBACK:
+
+Overall, well done in sticking to it this quarter.
+
+
+For future, consider sharing your data in plain-text (as you have done), a spreadsheet
+   format such as a CSV file. It is difficult to see the small charts within 
+   the pdf_table PDF file.
+
+
+Good description of findings in Explanation.txt file.
+    Yes your question of average recursion limit would have been
+	excellent for the discussion forum.
+	Perhaps consider posting an open-ended question that you have in your future courses.
+	
+	
+-1.5 Missing annotations on graph as required by project description:
+  "annotate the graph with your findings (such as optimal recursion limit);"
+This means manually circling and adding comments..”
+
+   Where is the optimal recursion limit (range) on your graph?
+
+-Bita.
+

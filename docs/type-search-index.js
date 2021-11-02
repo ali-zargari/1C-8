@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"cs1c","l":"FHsort"},{"p":"Recursion","l":"RecursionAnalysis"}];updateSearchResults();
